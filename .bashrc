@@ -93,7 +93,8 @@ fi
 alias msql='mysql -uroot -ptest1234'
 
 #random alias
-alias hs='history | grep'
+alias kancolle='sudo timedatectl set-timezone Asia/Tokyo'
+alias backtonormal='sudo timedatectl set-timezone America/Sao_Paulo'
 
 
 #alias for just save my life
