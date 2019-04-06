@@ -112,6 +112,7 @@ alias untar='tar -zxvf '
 alias wget='wget -c '
 alias ping='ping -c 5'
 alias speed='speedtest-cli --server 2406 --simple'
+alias desliga='sudo poweroff'
 
 #git alias
 alias clone='git clone'
